@@ -1,5 +1,5 @@
 # Audio Visualizer
-Javascript and HTML canvas audio visualizer
+Javascript and HTML canvas microphone/voice activated audio visualizer
 
 | #  |       Project       | Live Demo |
 |:--:|:--------------------|:---------:|
